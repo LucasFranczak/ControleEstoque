@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ControleEstoqueWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|d:\\controleestoqueweb\\controleestoqueweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|solutionrelative:controleestoqueweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|d:\\controleestoqueweb\\controleestoqueweb\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|solutionrelative:controleestoqueweb\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|d:\\controleestoqueweb\\controleestoqueweb\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|solutionrelative:controleestoqueweb\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|d:\\controleestoqueweb\\controleestoqueweb\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F239F2B6-6D76-4B6E-9DFF-CB43B98F4FCB}|ControleEstoqueWeb\\ControleEstoqueWeb.csproj|solutionrelative:controleestoqueweb\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoqueWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControleEstoqueWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwEIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T01:49:27.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueWeb\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ControleEstoqueWeb\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:33:06.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Views\\Conta\\Login.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoqueWeb\\Views\\Conta\\Login.cshtml",
+              "ToolTip": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Views\\Conta\\Login.cshtml",
+              "RelativeToolTip": "ControleEstoqueWeb\\Views\\Conta\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T01:32:51.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueWeb\\Controllers\\ContaController.cs",
+              "ToolTip": "D:\\ControleEstoqueWeb\\ControleEstoqueWeb\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "ControleEstoqueWeb\\Controllers\\ContaController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:19:00.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Controle de Estoque</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+    <div class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            @Html.ActionLink("Controle de Estoque", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            @if (Request.IsAuthenticated)
+            {
+
+                <ul class="navbar-nav mr-auto">
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownCadastros" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cadastros
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownCadastros">
+                            @Html.ActionLink("Grupos de produtos", "GrupoProduto", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Marcas de produtos", "MarcaProduto", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Locais de armazenamento", "LocalProduto", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Unidades de medida", "UnidadeMedida", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Produtos", "Produto", "Cadastro", null, new { @class = "dropdown-item" })
+                            <div class="dropdown-divider"></div>
+                            @Html.ActionLink("Países", "Pais", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Estados", "Estado", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Cidades", "Cidade", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Fornecedores", "Fornecedor", "Cadastro", null, new { @class = "dropdown-item" })
+                            <div class="dropdown-divider"></div>
+                            @Html.ActionLink("Perfis de Usuários", "PerfilUsuario", "Cadastro", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Usuários", "Usuario", "Cadastro", null, new { @class = "dropdown-item" })
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownOperacoes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Operações
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownOperacoes">
+                            @Html.ActionLink("Entrada de produtos", "EntradaEstoque", "Operacao", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Saída de produtos", "SaidaEstoque", "Operacao", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Lançamento de perdas de produtos", "LancPerdaProduto", "Operacao", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Inventário de estoque", "Inventario", "Operacao", null, new { @class = "dropdown-item" })
+                        </div>
+
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownRelatorios" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Relatórios
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownRelatorios">
+                            @Html.ActionLink("Posição do Estoque", "PosicaoEstoque", "Relatorio", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Ressuprimento", "Ressuprimento", "Relatorio", null, new { @class = "dropdown-item" })
+                        </div>
+
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownGraficos" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Gráficos
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownGraficos">
+                            @Html.ActionLink("Perdas por mês", "PerdaMes", "Grafico", null, new { @class = "dropdown-item" })
+                            @Html.ActionLink("Entradas vs saídas por mês", "EntradaSaidaMesa", "Grafico", null, new { @class = "dropdown-item" })
+                        </div>
+
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right ml-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    
+                    <li><a href="#" class="nav-link">  Olá @User.Identity.Name   </a></li>
+
+                    @using (Html.BeginForm("LogOff", "Conta", FormMethod.Post, new { id = "logoffForm" }))
+                    {
+                        <li><a href="javascript:document.getElementById('logoffForm').submit()" class="nav-link">Sair</a></li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <ul class="nav navbar-nav navbar-right ml-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("Login", "Loguin", "Conta", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                </ul>
+            }
+
+        </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Controle de Estoque</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

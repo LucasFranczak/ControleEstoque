@@ -1,0 +1,158 @@
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\ControleEstoqueWeb.dll.config
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\ControleEstoqueWeb.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\ControleEstoqueWeb.pdb
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csc.exe
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csc.exe.config
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csc.rsp
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csi.exe
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csi.exe.config
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csi.rsp
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Console.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\vbc.exe
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\vbc.exe.config
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\vbc.rsp
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Antlr3.Runtime.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Newtonsoft.Json.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Helpers.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Mvc.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Optimization.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Razor.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\WebGrease.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Helpers.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Mvc.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Optimization.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Razor.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Newtonsoft.Json.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.csproj.AssemblyReference.cache
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.csproj.CoreCompileInputs.cache
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\Controle.A2B0B203.Up2Date
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.dll
+C:\Users\Lucas F\Desktop\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.pdb
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\ControleEstoqueWeb.dll.config
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\ControleEstoqueWeb.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\ControleEstoqueWeb.pdb
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csc.exe
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csc.exe.config
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csc.rsp
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csi.exe
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csi.exe.config
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\csi.rsp
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.AppContext.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Console.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.Compression.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Net.Http.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Net.Sockets.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.ValueTuple.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.XPath.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\vbc.exe
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\vbc.exe.config
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\vbc.rsp
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\VBCSCompiler.exe
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Antlr3.Runtime.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Newtonsoft.Json.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Helpers.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Mvc.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Optimization.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Razor.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Razor.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\WebGrease.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Helpers.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Mvc.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Optimization.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.Razor.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\System.Web.WebPages.Razor.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Newtonsoft.Json.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Antlr3.Runtime.pdb
+D:\ControleEstoqueWeb\ControleEstoqueWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.csproj.AssemblyReference.cache
+D:\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.csproj.CoreCompileInputs.cache
+D:\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\Controle.A2B0B203.Up2Date
+D:\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.dll
+D:\ControleEstoqueWeb\ControleEstoqueWeb\obj\Debug\ControleEstoqueWeb.pdb
